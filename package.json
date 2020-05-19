@@ -1,0 +1,26 @@
+{
+  "name": "micro-api",
+  "version": "1.0.0",
+  "description": "learning microservices-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/341/micro-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "api",
+    "mangoose",
+    "mangoDB",
+    "microservices"
+  ],
+  "author": "eroll maxhuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/341/micro-api/issues"
+  },
+  "homepage": "https://github.com/341/micro-api#readme"
+}
