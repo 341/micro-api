@@ -1,4 +1,5 @@
 {
+  "author": "eroll maxhuni",
   "name": "micro-api",
   "version": "1.0.0",
   "description": "learning microservices-api",
@@ -17,7 +18,6 @@
     "mangoDB",
     "microservices"
   ],
-  "author": "eroll maxhuni",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/341/micro-api/issues"
